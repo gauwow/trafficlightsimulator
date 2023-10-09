@@ -17,6 +17,11 @@ The Traffic Light Simulator allows you to configure the durations of the red, ye
 ## Requirements
 
 To run the Traffic Light Simulator, you need to have Python installed on your system. The code was developed using Python 3.x.
+Dependancies Module required is tkinter, please run command below to install:
+
+```bash
+pip install tk
+```
 
 ## How to Use
 
